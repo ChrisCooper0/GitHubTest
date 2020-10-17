@@ -1,2 +1,2 @@
 # GitHubTest
-Adding comment from terminal
+Testing GitHub commit from VS Code
